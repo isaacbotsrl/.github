@@ -4,7 +4,7 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="apple_catch.png.png">
-    <img src="srcset="apple_catch.png.png" alt="IsaacBot" width="240">
+    <source media="(prefers-color-scheme: dark)" srcset="apple_catch.png">
+    <img src="srcset="apple_catch.png" alt="IsaacBot" width="320">
   </picture>
 </p>
